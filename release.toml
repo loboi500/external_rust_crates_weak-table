@@ -1,3 +1,3 @@
-pre-release-replacements = [
-  { file="src/lib.rs", search="https://docs[.]rs/weak-table/[0-9.]*", replace="https://docs.rs/weak-table/{{version}}" }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:16faffd456538b7637772d5ac26fe44985ee2ce0a493f11d65af7532ffd94381
+size 152
